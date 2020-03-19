@@ -1,0 +1,17 @@
+.Container{
+    display: flex;
+    flex-direction: column;
+}
+
+.title{
+    text-align: center;
+}
+
+.notice{
+    text-align: center;
+}
+
+form{
+    margin: 0 auto;
+    
+}

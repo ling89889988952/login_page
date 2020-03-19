@@ -1,0 +1,10 @@
+username:admin
+password:123
+
+1.compare time
+https://www.w3schools.com/php/func_date_strtotime.asp
+https://www.php.net/manual/zh/function.strtotime.php
+
+2. expired system
+https://www.youtube.com/watch?v=QUFkRBhooyQ
+
